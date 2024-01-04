@@ -1,5 +1,4 @@
 // Note: Do not write @Enumerated annotation above CountryName in this model.
-// Note: Do not write @Enumerated annotation above CountryName in this model.
 package com.driver.model;
 
 import javax.persistence.*;
